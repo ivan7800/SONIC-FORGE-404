@@ -1,0 +1,2 @@
+# Browser regression suite; production app and diagnostic use Python stdlib only.
+playwright>=1.45,<2
